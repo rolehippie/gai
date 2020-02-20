@@ -1,2 +1,7 @@
+# Standards: 0.1
+---
+# @var gai_precendence:description: List of precendence values
 gai_precendence:
   - ::ffff:0:0/96 100
+
+...
