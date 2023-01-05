@@ -3,6 +3,6 @@
 - name: Converge
   hosts: all
   roles:
-    - role: gai
+    - role: rolehippie.gai
 
 ...
