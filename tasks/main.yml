@@ -1,9 +1,9 @@
 ---
 - name: Write config file
-  template:
+  ansible.builtin.template:
     src: config.j2
     dest: /etc/gai.conf
-    mode: 0644
+    mode: u=rw,g=r,o=r
   tags:
     - gai
 
