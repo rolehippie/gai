@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/rolehippie/gai/compare/v2.0.0...v2.1.0) (2025-09-21)
+
+
+### Features
+
+* apply new repo structure and update linting ([d74f94e](https://github.com/rolehippie/gai/commit/d74f94e48b4a1836bbf556fa7a0b85a77d154465))
+
 ## [2.0.0](https://github.com/rolehippie/gai/compare/v1.0.0...v2.0.0) (2024-02-12)
 
 
