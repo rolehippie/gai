@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.4.0](https://github.com/rolehippie/gai/compare/v2.3.0...v2.4.0) (2026-08-17)
+
+### Dependencies
+
+* **minor:** update dependency pipx:ansible-lint to v26.8.0 ([#59](https://github.com/rolehippie/gai/issues/59)) ([faa01c2](https://github.com/rolehippie/gai/commit/faa01c2b582003bb16c8b47c09a4717aea9496b6))
+* **patch:** update dependency pipx:ansible-core to v2.21.3 ([#57](https://github.com/rolehippie/gai/issues/57)) ([dbd8664](https://github.com/rolehippie/gai/commit/dbd866435712b743a04ec99c7b765f4ec6de8166))
+* **patch:** update dependency pre-commit to v4.6.2 ([#58](https://github.com/rolehippie/gai/issues/58)) ([2572b66](https://github.com/rolehippie/gai/commit/2572b66ef479aa518aeba334033e125c8fcf850e))
+
 ## [2.3.0](https://github.com/rolehippie/gai/compare/v2.2.0...v2.3.0) (2026-08-10)
 
 ### Dependencies
