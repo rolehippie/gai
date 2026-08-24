@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.5.0](https://github.com/rolehippie/gai/compare/v2.4.0...v2.5.0) (2026-08-24)
+
+### Dependencies
+
+* **minor:** update dependency pipx:molecule to v26.8.0 ([#60](https://github.com/rolehippie/gai/issues/60)) ([083a06c](https://github.com/rolehippie/gai/commit/083a06cb2acd2bd24caeefc71d91c8940016cc72))
+
 ## [2.4.0](https://github.com/rolehippie/gai/compare/v2.3.0...v2.4.0) (2026-08-17)
 
 ### Dependencies
