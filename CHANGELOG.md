@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.5.1](https://github.com/rolehippie/gai/compare/v2.5.0...v2.5.1) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#61](https://github.com/rolehippie/gai/issues/61)) ([7ffe446](https://github.com/rolehippie/gai/commit/7ffe4464410f237b8403005fd75495331dc07588))
+
 ## [2.5.0](https://github.com/rolehippie/gai/compare/v2.4.0...v2.5.0) (2026-08-24)
 
 ### Dependencies
