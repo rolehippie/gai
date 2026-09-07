@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.6.0](https://github.com/rolehippie/gai/compare/v2.5.1...v2.6.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([7eda1e6](https://github.com/rolehippie/gai/commit/7eda1e6316c05ac992735f8668eded208a34c11a))
+
 ## [2.5.1](https://github.com/rolehippie/gai/compare/v2.5.0...v2.5.1) (2026-08-31)
 
 ### Dependencies
